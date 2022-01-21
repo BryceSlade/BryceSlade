@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nelson
 #### Full Stack Web Developer & Designer
-![Full Stack Web Developer & Designer](https://github.com/BryceSlade/BryceSlade/blob/main/Nelson%20Slade.png?raw=true)
+![Full Stack Web Developer & Designer](https://github.com/BryceSlade/BryceSlade/blob/main/Nelson%20Slade%20(2).png?raw=true)
 
 I'm a tech and coding enthusiast living Utah. I enjoy using and learning languages and frameworks like JavaScript, React, React native, and some Python!
 
