@@ -12,6 +12,8 @@ Skills: REACT / JS / HTML / CSS / REDUX / CONTEXT API / SQL / EXPRESS / FIGMA
 ### How To Reach Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BryceSlade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nelsonbryceslade/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CodingWithBryce)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nelson-slade.herokuapp.com/)
 
+Email: bryceslade@gmail.com
+
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BryceSlade&show_icons=true)   
