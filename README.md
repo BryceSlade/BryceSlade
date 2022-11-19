@@ -2,7 +2,7 @@
 ![Full Stack Web Developer & Designer](https://github.com/BryceSlade/BryceSlade/blob/main/Nelson%20Slade.png?raw=true)
 I'm a tech and coding enthusiast living Queen Creek, AZ. I'm currently skilled in using React with a focus on Frontend Development.
 
-Skills: REACT / JS / Material UI / CSS / REDUX / CONTEXT API / SQL / EXPRESS / FIGMA
+Skills: REACT / JS / MUI / TYPESCRIPT / REDUX / CONTEXT API / SQL / EXPRESS / FIGMA
 
 - 🌱 I’m currently searching for new work opprotunities after the Carvana layoffs
 - 🔭 I’m currently working on my personal website and other projects to diversify my portfolio! 
