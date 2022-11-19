@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm...
 ![Full Stack Web Developer & Designer](https://github.com/BryceSlade/BryceSlade/blob/main/Nelson%20Slade.png?raw=true)
-I'm a tech and coding enthusiast living Utah. I enjoy using and learning languages and frameworks like JavaScript, React, React native, and some Python!
+I'm a tech and coding enthusiast living Queen Creek, AZ. I'm currently skilled in using React with a focus on Frontend Development.
 
-Skills: REACT / JS / HTML / CSS / REDUX / CONTEXT API / SQL / EXPRESS / FIGMA
+Skills: REACT / JS / Material UI / CSS / REDUX / CONTEXT API / SQL / EXPRESS / FIGMA
 
+- 🌱 I’m currently searching for new work opprotunities after the Carvana layoffs
 - 🔭 I’m currently working on my personal website and other projects to diversify my portfolio! 
-- 🌱 I’m currently learning Applied Computer Science 
 - 👯 I’m looking to collaborate on a React native application 
 - 💬 Ask me about my journey so far! 
 
