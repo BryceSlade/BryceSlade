@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm...
-![Full Stack Web Developer & Designer](https://github.com/BryceSlade/BryceSlade/blob/main/Nelson%20Slade.png?raw=true)
-I'm a tech and coding enthusiast living Queen Creek, AZ. I'm currently skilled in using React with a focus on Frontend Development.
+![Front End Web Developer & Designer](https://github.com/BryceSlade/BryceSlade/blob/main/Nelson%20Slade.png?raw=true)
+I'm a tech and coding enthusiast living Queen Creek, AZ. I'm skilled in developing Front End features using primarily React, JavaScript, and HTML/CSS.
 
-Skills: REACT / JS / MUI / TYPESCRIPT / REDUX / CONTEXT API / SQL / EXPRESS / FIGMA
+Skills: REACT / JS / MUI / TYPESCRIPT / BOOTSTRAP / JQUERY / C# / CSS / HUBSPOT / SITEFINITY
 
-- 🌱 I’m currently searching for new work opprotunities after the Carvana layoffs
+- 🌱 I’m currently employed by CEA CAPA Education Abroad!
 - 🔭 I’m currently working on my personal website and other projects to diversify my portfolio! 
-- 👯 I’m looking to collaborate on a React native application 
+- 👯 I’m looking to collaborate on a React Native application.
 - 💬 Ask me about my journey so far! 
 
 ### How To Reach Me
